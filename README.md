@@ -12,7 +12,6 @@
 
 ### Spotify Playing 🎧
 [![Spotify](https://momsz-spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/user/21n243enqd4b3jtpfsmkx7omy)
-[<img src="https://spotify-omega.vercel.app/api/spotify-playing" alt="momszx Spotify Playing" width="350" />](https://open.spotify.com/user/21n243enqd4b3jtpfsmkx7omy)
 
 ### Connect with me:
 
