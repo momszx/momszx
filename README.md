@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on diploma thesis 🤓
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate to game development
-- 🥅 2021 Goals: Finish the University and go to Danmark 
+- 🥅 2021 Goals: Finish the University and go to Denmark 
 - ⚡ Fun fact: This is the way - The Mandalorian
                 / Valar morghulis - Game of Thrones 
 
