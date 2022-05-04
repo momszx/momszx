@@ -1,12 +1,13 @@
 ### Hi there, I'm Márk - aka [momsz][website] 👋
-
+🚧Rebuilding in progress
 [![Website](https://img.shields.io/website?down_message=Down%20%F0%9F%A4%94&label=momszx.github.io&up_message=Up%20%F0%9F%98%8E&url=https%3A%2F%2Fmomszx.github.io%2FMyWebSite%2F)](https://momszx.github.io/MyWebSite/)
+🚧
 ## I'm a Developer, Gamer , and Student!!
 
 - 🔭 I’m currently working on diploma thesis 🤓
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate to game development
-- 🥅 2022 Goals: Finish the University and go to Denmark 
+- 🥅 2022 Goals: Finish the University
 - ⚡ Fun fact: This is the way - The Mandalorian
                 / Valar morghulis - Game of Thrones 
 
