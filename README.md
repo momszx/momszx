@@ -1,7 +1,16 @@
 ### Hi there, I'm Márk - aka [momsz][website] 👋
 🚧Rebuilding in progress
+[![Website](https://img.shields.io/website?down_message=down%20%F0%9F%98%B1&&label=momsz.azurewebsites.net&up_message=up%20%F0%9F%98%8E&url=https%3A%2F%2Fmomsz.azurewebsites.net%2F)](https://momsz.azurewebsites.net/)
+<details>
+  <summary>Old webpage ⚰️</summary>
+  
 [![Website](https://img.shields.io/website?down_message=Down%20%F0%9F%A4%94&label=momszx.github.io&up_message=Up%20%F0%9F%98%8E&url=https%3A%2F%2Fmomszx.github.io%2FMyWebSite%2F)](https://momszx.github.io/MyWebSite/)
+  
+</details>
+
+
 🚧
+https://img.shields.io/website?down_message=down%20%F0%9F%98%B1&style=for-the-badge&up_message=up%20%F0%9F%98%8E&url=https%3A%2F%2Fmomsz.azurewebsites.net%2F
 ## I'm a Developer, Gamer , and Student!!
 
 - 🔭 I’m currently working on diploma thesis 🤓
