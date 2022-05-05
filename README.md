@@ -8,9 +8,7 @@
   
 </details>
 
-
 🚧
-https://img.shields.io/website?down_message=down%20%F0%9F%98%B1&style=for-the-badge&up_message=up%20%F0%9F%98%8E&url=https%3A%2F%2Fmomsz.azurewebsites.net%2F
 ## I'm a Developer, Gamer , and Student!!
 
 - 🔭 I’m currently working on diploma thesis 🤓
