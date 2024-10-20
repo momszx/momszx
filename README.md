@@ -17,7 +17,7 @@
 
 - 👯 I'm looking for something I can collaborate on
 
-- 🥅 2023 Goals: Finish my Arduino based car display.
+- 🥅 2024 Goals: Finish my Arduino based car display.
 
 - ⚡ Fun fact: This is the way - The Mandalorian
 
